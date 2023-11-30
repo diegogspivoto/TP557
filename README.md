@@ -1,4 +1,4 @@
-O projeto Aplicação de Aprendizado de Maquina para o Controle de Estoque de Produtos em Processos Industriais está organizado da seguinte maneira:
+O projeto "Aplicação de Aprendizado de Maquina para o Controle de Estoque de Produtos em Processos Industriais" está organizado da seguinte maneira:
 
 1- A Pasta "Código do Projeto" contém o link público de acesso do projeto proposto no Edge Impulse. Através dele, é possível que o usuário possa se conectar pelo celular e realizar o build do modelo dentro da seção Deployment através de um QRCode disponibilizado pela plataforma.
 Além disso, esta pasta contém o build do projeto em C++ como exemplo, para caso o usuário deseje utilizar o modelo com esta linguagem para realizar alguma aplicação específica.

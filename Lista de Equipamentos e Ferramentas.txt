@@ -17,8 +17,8 @@ Para a realização deste projeto, diversos equipamentos e ferramentas foram usa
 	- esteira: Os materiais usados para desenvolver a esteira foram:
 		- rolamento: folha de papel sulfite com fita adesiva para firmeza e apoio, além de 2 carreteis de linha de costura com lixa para dar aderência ao rolamento;
 		- suporte da esteira:  palitos de madeira fixados com cola-quente e papelão para a base;
-	- movimento da esteira: O movimento da esteira foi realizado através de um "Mini Motor DC 3v a 6v sem Redução - Redondo";
-	- alimentação do motor: a alimentação do motor foi feita pela fonte de alimentação de 3V disponível em uma placa "Arduino Nano 33 BLE Sense";
+		- movimento da esteira: O movimento da esteira foi realizado através de um "Mini Motor DC 3v a 6v sem Redução - Redondo";
+		- alimentação do motor: a alimentação do motor foi feita pela fonte de alimentação de 3V disponível em uma placa "Placa stm32f0 discovery";
 	- inferência do modelo em tempo-real:
 		- dispositivo: dispositivo celular com câmera, com suporte aos requisitos mínimos para uso do modelo, como por exemplo recursos de memória RAM e flash;
 		- suporte do dispositivo: suporte para dispositivo celular (Kingo), usado para apoiar o aparelho em um ângulo superior de forma que a câmera do mesmo capte imagens da esteira de forma eficiente.
